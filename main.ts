@@ -8,4 +8,8 @@ function sortByName(a: Person[]) {
         return x.name.localeCompare(y.name);
     });
     return result;
+   
+}
+function getTheName(){
+    
 }
