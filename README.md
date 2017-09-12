@@ -1,2 +1,2 @@
 # CodeMania
-Just to start learning GitHub
+This is just a simple demo for TypeScript...
